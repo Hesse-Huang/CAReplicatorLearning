@@ -1,2 +1,2 @@
 # CAReplicatorLearning
-学习CAReplicator的使用
+学习CAReplicatorLayer的使用
